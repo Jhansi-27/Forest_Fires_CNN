@@ -40,7 +40,7 @@
 ## Code
 This code is run and tested on Python 3.6 on Windows 10  machine with no issues.
 Download the [Forest_fires.ipynb](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/ForestFires.ipynb) file.
-This is the main IPython Notebook, run it using Jupyter notebook in your local system or using [Google Collab](https://colab.research.google.com).
+This is the main IPython Notebook, run it using Jupyter notebook in your local system or it can be run using [Google Collab](https://colab.research.google.com).
 
 ## Results
 * The following are the classification accuracy and Confusion Matrix of the baseline model:
