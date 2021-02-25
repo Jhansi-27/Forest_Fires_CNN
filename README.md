@@ -9,7 +9,7 @@
         ├── Fire/*.jpg
         ├── No_Fire/*.jpg
 ```
-* The testing The direcotry looks like this:
+* The test direcotry looks like this:
 ```bash
 /Test
     ├── Fire/*.jpg
@@ -36,9 +36,9 @@ This code is run and tested on Python 3.6 on Windows 10  machine with no issues.
 
 ## Results
 * Fire classification accuracy and  Confusion Matrix:
-### Accuracy !
+### Accuracy
 ![Accuracy](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/accuracy.PNG?raw=true)
-### Confusion marix !
+### Confusion marix
 ![Confusion matrix](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/cm.PNG?raw=true)
 
 
