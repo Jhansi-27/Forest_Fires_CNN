@@ -5,7 +5,7 @@
 * Training/Validation dataset: This dataset has 39,375 frames that are resized to 254x254 and the image format is JPG. This data is in a directory called training, which contains 2 sub-directories, one per class.
 * Test dataset : Test datset has 8,617 frames that are labeled.This data is in a directory called test, which contains 2 sub-directories, one per class.
 
-* This table shows the direcotry structure of training data:
+* This table shows the directory structure of training data:
 ```bash
 /Training
         ├── Fire/*.jpg
@@ -22,6 +22,7 @@
 * The binary fire classifcation model of this project is based on the simple CNN Network:
 * The CNN model has 3 convolutional layers followed by a max-pooling layers.
 * A dropout layer is added after 3rd maxpool operation to avoid overfitting.
+
 ![BaseModel:Simple CNN](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/Baseline_new.png?raw=true). 
 
 ## Requirements
@@ -42,7 +43,7 @@ Download the [Forest_fires.ipynb](https://github.com/Jhansi-27/Forest_Fires_CNN/
 This is the main IPython Notebook, run it using Jupyter notebook in your local system or using [Google Collab](https://colab.research.google.com).
 
 ## Results
-* Fire classification accuracy and  Confusion Matrix:
+* The following are the classification accuracy and Confusion Matrix of the baseline model:
 ### Accuracy
 ![Accuracy](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/accuracy.PNG?raw=true)
 ### Confusion marix
