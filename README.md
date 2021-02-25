@@ -39,11 +39,10 @@
 This code is run and tested on Python 3.6 on Windows 10  machine with no issues. Download the 'Forest_fires.ipynb' file and run it in Jupyter notebook.
 
 ## Results
-* Fire classification accuracy:
-
+* Fire classification accuracy and  Confusion Matrix:
+### Accuracy !
 ![Accuracy](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/accuracy.PNG?raw=true)
-
-* Fire classification Confusion Matrix:
+### Confusion marix !
 ![Confusion matrix](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/cm.PNG?raw=true)
 
 
