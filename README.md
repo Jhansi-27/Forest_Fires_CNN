@@ -1,7 +1,7 @@
 # Classification of forest pile burn images into "fire vs nofire" using Convolution Neural Networks
 
 ### Dataset
-* The dataset is downloaded from IEEE dataport and kept in this repository.
+* The dataset is downloaded from IEEE dataport and you can download datasets from [download data](https://essexuniversity-my.sharepoint.com/:f:/g/personal/hr17576_essex_ac_uk/EplQh6rwA8pJhHP0jKfg6-kBVHyb1BE9TCAj4MVR0tyOEA?e=Uo6PLD).
 
 * This table shows the direcotry structure of training data:
 ```bash
