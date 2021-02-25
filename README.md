@@ -46,11 +46,11 @@ This code is run and tested on Python 3.6 on Windows 10  machine with no issues.
 ## Results
 * Fire classification accuracy:
 
-![Alt text](/Output/classification.PNG)
+![Alt text](acuuracy.PNG)
 
 * Fire classification Confusion Matrix:
 
-<img src=/Output/confusion.PNG width="500" height="500"/>
+<img src=/Output/cm.PNG width="500" height="500"/>
 <!--- ![Alt text](/Output/confusion.PNG) --->
 
 
