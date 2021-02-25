@@ -24,9 +24,6 @@
 <br/>
 <br/>
 
-* The fire segmentation model of this project is based on the U-NET:
-
-![Alt text](/frames/u-net-segmentation.PNG)
 
 ## Requirements
 * os
@@ -41,16 +38,14 @@
 ## Code
 This code is run and tested on Python 3.6 on Windows 10  machine with no issues. Download the 'Forest_fires.ipynb' file and run it in Jupyter notebook.
 
-
-
 ## Results
 * Fire classification accuracy:
 
-![Alt text](acuuracy.PNG)
+# Classification accuracy!
+
+![Accuracy](accuracy.png)
 
 * Fire classification Confusion Matrix:
-
-<img src=/Output/cm.PNG width="500" height="500"/>
-<!--- ![Alt text](/Output/confusion.PNG) --->
+![Accuracy](cm.png)
 
 
