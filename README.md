@@ -19,8 +19,7 @@
 
 ### Model
 * The binary fire classifcation model of this project is based on the simple CNN Network:
-[BaseModel:Simple CNN](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/ForestFires.ipynb). This is the main IPython Notebook, download the file and run it using
-Jupyter notebook.
+![BaseModel:Simple CNN](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/Baseline_new.png?raw=true). 
 
 ## Requirements
 * os
@@ -34,7 +33,8 @@ Jupyter notebook.
 
 ## Code
 This code is run and tested on Python 3.6 on Windows 10  machine with no issues.
-Download the  ![Forest_fires.ipynb](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/Baseline_new.png?raw=true) file and run it in Jupyter notebook.
+Download the [Forest_fires.ipynb](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/ForestFires.ipynb) file and run it in Jupyter notebook.
+This is the main IPython Notebook, download the file and run it using Jupyter notebook or Google Collab.
 
 ## Results
 * Fire classification accuracy and  Confusion Matrix:
