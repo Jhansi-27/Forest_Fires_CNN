@@ -1,7 +1,7 @@
 # Classification of forest pile burn images into "fire vs nofire" using Convolution Neural Networks
 
 ### Dataset
-* The dataset is downloaded from IEEE dataport and you can download datasets from [here](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs). 
+* The dataset is downloaded from IEEE dataport and you can download 7th and 8th repository from [here](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) for classification and unzip them.
 * Training/Validation dataset: This dataset has 39,375 frames that are resized to 254x254 and the image format is JPG. This data is in a directory called training, which contains 2 sub-directories, one per class.
 * Test dataset : Test datset has 8,617 frames that are labeled.This data is in a directory called test, which contains 2 sub-directories, one per class.
 
