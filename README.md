@@ -41,11 +41,9 @@ This code is run and tested on Python 3.6 on Windows 10  machine with no issues.
 ## Results
 * Fire classification accuracy:
 
-# Classification accuracy!
-
-![Accuracy](accuracy.png)
+![Accuracy](![alt text](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/accuracy.PNG?raw=true)
 
 * Fire classification Confusion Matrix:
-![Accuracy](cm.png)
+![Confusion matrix](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
