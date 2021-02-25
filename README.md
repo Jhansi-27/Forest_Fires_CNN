@@ -19,11 +19,7 @@
 
 ### Model
 * The binary fire classifcation model of this project is based on the simple CNN Network:
-
-![Alt text](/frames/small_Xception_model.PNG)
-<br/>
-<br/>
-
+![BaseModel:Simple CNN](https://github.com/Jhansi-27/Forest_Fires_CNN/blob/main/Baseline_new.png?raw=true)
 
 ## Requirements
 * os
