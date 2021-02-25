@@ -1,24 +1,20 @@
 # Classification of forest pile burn images into "fire vs nofire" using Convolution Neural Networks
 
 ### Dataset
-* The dataset is downloaded on IEEE dataport. 
+* The dataset is downloaded from IEEE dataport and kept in this repository.
 
-* This table shows the direcotry architecture of training data:
+* This table shows the direcotry structure of training data:
 ```bash
 /Training
-                    ├── Fire/*.jpg
-                    ├── No_Fire/*.jpg
+        ├── Fire/*.jpg
+        ├── No_Fire/*.jpg
 ```
 * The testing The direcotry looks like this:
 ```bash
-Repository/frames/Test
-                    ├── Fire/*.jpg
-                    ├── No_Fire/*.jpg
+/Test
+    ├── Fire/*.jpg
+    ├── No_Fire/*.jpg
 ```
-
-
-<!--- ![Alt text](/Output/table.PNG) --->
-<img src=/Output/table.PNG width="860" height="600"/>
 
 
 ### Model
